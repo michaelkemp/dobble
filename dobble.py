@@ -2,7 +2,7 @@ import json
 import sys
 
 # Prime Finite Projective Plane Order [primes]
-order = 5
+order = 101
 count = 0
 
 grid = []
